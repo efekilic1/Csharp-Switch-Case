@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/Switch-Case/Switch-Case/bin/Debug/Switch-Case.exe
+/Users/muhammedkilic/Projects/Switch-Case/Switch-Case/bin/Debug/Switch-Case.pdb
+/Users/muhammedkilic/Projects/Switch-Case/Switch-Case/obj/Debug/Switch-Case.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/Switch-Case/Switch-Case/obj/Debug/Switch-Case.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/Switch-Case/Switch-Case/obj/Debug/Switch-Case.exe
+/Users/muhammedkilic/Projects/Switch-Case/Switch-Case/obj/Debug/Switch-Case.pdb
